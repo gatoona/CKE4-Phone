@@ -1,0 +1,7 @@
+name: CKEditor Phone
+type: module
+description: Adds phone links to CKEditor
+core_version_requirement: ^9 || ^10
+package: Custom CKEditor
+dependencies:
+  - drupal:ckeditor
